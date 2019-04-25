@@ -37,3 +37,7 @@ https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
 ## Resources
 
 [Twitter to follow](https://gist.github.com/ys7yoo/ff1d91acfad53586a457762df2aee2e7)
+
+[Field Guide to Human-Centered Design](http://d1r3w4d5z5a88i.cloudfront.net/assets/guide/Field%20Guide%20to%20Human-Centered%20Design_IDEOorg_English-a91845bb340ad2dff5f1a66259789e06.pdf) by IDEO
+
+[git tutorial](https://opentutorials.org/course/1492)
