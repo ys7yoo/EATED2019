@@ -23,3 +23,12 @@
 
 ### Wearable device를 활용한 frailty scale 예측
 
+
+
+## Study materials
+
+1.  Think python (2nd ed.)
+http://greenteapress.com/wp/think-python-2e/
+
+2. PyTorchZeroToAll by Prof. Sung Kim
+https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
