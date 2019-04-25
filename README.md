@@ -27,7 +27,7 @@
 
 ## Study materials
 
-1.  Think python (2nd ed.)
+1.  Think python by Allen B. Downey (2nd ed.)
 http://greenteapress.com/wp/think-python-2e/
 
 2. PyTorchZeroToAll by Prof. Sung Kim
