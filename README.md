@@ -19,7 +19,7 @@
 | [남영우](https://github.com/yw0nam) |  [yw0nam](https://github.com/yw0nam) | spow2544[AT]gmail.com | | 
 | [김진호](https://github.com/kimjinho1)  | [kimjinho1](https://github.com/kimjinho1) | rlawlsgh8113[AT]inu.ac.kr |  |
 | [김준](https://github.com/Kimjun97)  | [Kimjun97](https://github.com/Kimjun97) | fkrlwjstk[AT]naver.com |  |
-| [정광근](https://github.com/gwanggeun12)  | [Kimjun97](https://github.com/gwanggeun12) | jgk8866[AT]naver.com |  |
+| [정광근](https://github.com/gwanggeun12)  | [gwanggeun12](https://github.com/gwanggeun12) | jgk8866[AT]naver.com |  |
 
 ### Wearable device를 활용한 frailty scale 예측
 
