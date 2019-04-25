@@ -32,3 +32,8 @@ http://greenteapress.com/wp/think-python-2e/
 
 2. PyTorchZeroToAll by Prof. Sung Kim
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
+
+
+## Resources
+
+[Twitter to follow](https://gist.github.com/ys7yoo/ff1d91acfad53586a457762df2aee2e7)
