@@ -28,10 +28,11 @@
 ## Study materials
 
 1.  Think python by Allen B. Downey (2nd ed.)
-http://greenteapress.com/wp/think-python-2e/
+You can get PDF [here](http://greenteapress.com/wp/think-python-2e/).
 
-2. PyTorchZeroToAll by Prof. Sung Kim (for Deep Learning team)
-https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
+
+2. [PyTorchZeroToAll](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) by Prof. Sung Kim (for Deep Learning team)
+
 
 3. [Designing User Interfaces for an Aging Population: Towards Universal Design](https://lib.inu.ac.kr/search/detail/CATTOT000000815684) (for Wearable team)
 
