@@ -7,7 +7,7 @@
 | :-------------: | :-------------: | :-------------: | :-----: |
 | ![](pic/YoungwooNam.jpg) |  ![](pic/JinhoKim.jpg)| ![](pic/JoonKim.png) | ![](pic/KwangkeunJung.png)| 
 | 남영우 |  김진호 | 김준 | 정광근 | 
-| ![](pic/EunjiLee.jpg) |  ![](pic/SooheeJeon.jpg)| ![](pic/YehoJeon.png) | ![](pic/HyunjiChoo.png)| 
+| ![](pic/LeeEunji.jpg) |  ![](pic/JeonSuhee.jpg)| ![](pic/JeonYeho.png) | ![](pic/ChuHyunji.png)| 
 | 이은지 |  전수희 | 전예호 | 추현지 | 
 
 ## Topics
