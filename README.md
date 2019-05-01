@@ -22,6 +22,12 @@
 | [정광근](https://github.com/gwanggeun12)  | [gwanggeun12](https://github.com/gwanggeun12) | jgk8866[AT]naver.com |  |
 
 ### Wearable device를 활용한 frailty scale 예측
+| 이름         | github | e-mail          | 세부 내용 |
+| :-------------: | :------------- | :------------- | :----- |
+| [이은지](https://github.com/silvermouse9881) |  [silvermouse9881](https://github.com/silvermouse9881) | silvermouse81[AT]naver.com | | 
+| [전수희](https://github.com/JeonSuhee)  | [JeonSuhee](https://github.com/JeonSuhee) | wjstngml1013[AT]naver.com  |  |
+| [전예호](https://github.com/jeonyeho)  | [jeonyeho](https://github.com/jeonyeho) | jeonyeho[AT]naver.com |  |
+| [추현지](https://github.com/chuhyeonji)  | [chuhyeonji](https://github.com/chuhyeonji) | guswl8280[AT]naver.com |  |
 
 
 
