@@ -38,7 +38,7 @@
 2. [PyTorchZeroToAll](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) by Prof. Sung Kim (for Deep Learning team)
   * [video](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
   * [slides](http://bit.ly/PyTorchZeroAll)
-  * [(updated code](https://github.com/ys7yoo/PyTorchZeroToAll)
+  * [(updated) code](https://github.com/ys7yoo/PyTorchZeroToAll)
 
 3. [Designing User Interfaces for an Aging Population: Towards Universal Design](https://lib.inu.ac.kr/search/detail/CATTOT000000815684) (for Wearable team)
 
